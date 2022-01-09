@@ -15,6 +15,3 @@ sorted(data['HOUR'].unique())
 sorted(data['Location'].unique())
 
 data['Location' != ]
-
-#TEST01 COMMIT
-as
